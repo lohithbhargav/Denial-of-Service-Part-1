@@ -36,11 +36,11 @@
 
 
 ## Contact for Authors
-| Name | Rid |
-| --- | --- |
-|Lohith Bhargav Doppalapudi | R11786637 | Section - 003
-|Deepika Duttaluru Muralidhar | R11798788 | Section - 002
-|Bala Naga Sai Chandu Thutupalli | R11800450 | Section - 003
-|Dharani Kumar Vemuri | R11804262 | Section - 003
-|Rajani Priya Danda | R11800015 | Section - 003
-|Harshini Vemula | R11800661 | Section - 003
+| Name | Rid | Section |
+| --- | --- | --- |
+|Lohith Bhargav Doppalapudi | R11786637 |  003 |
+|Deepika Duttaluru Muralidhar | R11798788 | 002 |
+|Bala Naga Sai Chandu Thutupalli | R11800450 | 003 |
+|Dharani Kumar Vemuri | R11804262 | 003 |
+|Rajani Priya Danda | R11800015 | 003 |
+|Harshini Vemula | R11800661 | 003 |

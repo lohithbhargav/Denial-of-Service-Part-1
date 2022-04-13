@@ -19,8 +19,8 @@
 
 
 ## Operating Instructions
-1. We import the dataset into our code.
-2. To execute our code we use the command "
+1. We import the dataset[routers_data_undirected.txt] into our code.
+2. To execute our code we use the command "sudo mn --custom test.py --test pingall"
 
 
 ## Video
@@ -36,12 +36,11 @@
 
 
 ## Contact for Authors
-Section - 003
 | Name | Rid |
 | --- | --- |
-|Lohith Bhargav Doppalapudi | R11786637 |
-|Deepika Duttaluru Muralidhar | R11798788 |
-|Bala Naga Sai Chandu Thutupalli | R11800450 |
-|Dharani Kumar Vemuri | R11804262 |
-|Rajani Priya Danda | R11800015 |
-|Harshini Vemula | R11800661 |
+|Lohith Bhargav Doppalapudi | R11786637 | Section - 003
+|Deepika Duttaluru Muralidhar | R11798788 | Section - 002
+|Bala Naga Sai Chandu Thutupalli | R11800450 | Section - 003
+|Dharani Kumar Vemuri | R11804262 | Section - 003
+|Rajani Priya Danda | R11800015 | Section - 003
+|Harshini Vemula | R11800661 | Section - 003
